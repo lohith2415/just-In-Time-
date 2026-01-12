@@ -39,7 +39,9 @@ Files must be tab-separated.
 
 # 2️⃣ Motif Signal Processing
 >For each time point:
+
 >Motifs are grouped by Class
+>
 >The minimum P-value per motif is retained
 >Signal strength is converted to
 –log₁₀(P-value)
