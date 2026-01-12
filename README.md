@@ -111,3 +111,17 @@ Stress-response regulatory studies
 Cis-element cascade discovery
 
 Regulatory network inference support
+# Example (sample)
+Before running the pipeline 
+<img width="572" height="369" alt="Screenshot from 2026-01-12 17-00-42" src="https://github.com/user-attachments/assets/f26553bf-01d7-4966-ba1f-c83a0001c1cd" />
+
+# Motif files arrangement 
+Files should be named as per their timeline 
+<img width="1676" height="578" alt="Screenshot from 2026-01-12 17-03-23" src="https://github.com/user-attachments/assets/745b2482-642c-4248-af25-18a305e12f94" />
+
+# After pipeline (plot)
+<img width="1676" height="578" alt="Screenshot from 2026-01-12 17-04-39" src="https://github.com/user-attachments/assets/dc4cd7ca-c1c4-4d05-b861-eae06dfca485" />
+
+Final Just-In-Time plot 
+
+<img width="4800" height="2700" alt="JIT_motif" src="https://github.com/user-attachments/assets/734a5aac-63ed-4533-90b5-807b388d817c" />
