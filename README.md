@@ -35,15 +35,17 @@ Files must be tab-separated.
 ## ⚙️ Workflow Overview
 # 1️⃣ Automatic Timepoint Detection
 
->The script extracts numeric time values directly from filenames (e.g. 15, 30, 60) and sorts them chronologically.
+The script extracts numeric time values directly from 
+filenames (e.g. 15, 30, 60) and sorts them chronologically.
 
 # 2️⃣ Motif Signal Processing
->For each time point:
+For each time point:
 
->Motifs are grouped by Class
->
->The minimum P-value per motif is retained
->Signal strength is converted to
+Motifs are grouped by Class
+
+The minimum P-value per motif is retained
+
+Signal strength is converted to
 –log₁₀(P-value)
 
 # 3️⃣ JIT Time Computation
