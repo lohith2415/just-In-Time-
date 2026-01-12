@@ -1,3 +1,9 @@
+## Research Article Plant Biology
+
+# Temporal transcriptional logic of dynamic regulatory networks underlying nitrogen signaling and use in plants
+
+https://doi.org/10.1073/pnas.1721487115
+
 # 🧬 Just-in-Time (JIT) Motif Cascade Analysis
 
 This script performs Just-in-Time (JIT) analysis on cis-regulatory motif enrichment results across multiple time points and visualizes the temporal motif activation cascade as a heatmap.
